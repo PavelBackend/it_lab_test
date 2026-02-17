@@ -1,0 +1,13 @@
+# Aiogram
+aiogram==3.4.1
+aiogram-dialog==2.1.0
+
+# HTTP client
+aiohttp==3.9.3
+httpx==0.26.0
+
+# Environment variables
+python-decouple==3.8
+
+# Redis for state storage
+redis==5.0.1

@@ -1,0 +1,29 @@
+# Django and DRF
+Django==5.0.1
+djangorestframework==3.14.0
+django-filter==23.5
+
+# Database
+psycopg2-binary==2.9.9
+
+# Celery
+celery==5.3.6
+redis==5.0.1
+
+# HTTP client
+httpx==0.27.0
+
+# ULID for unique IDs
+python-ulid==2.2.0
+
+# CORS
+django-cors-headers==4.3.1
+
+# Environment variables
+python-decouple==3.8
+
+# Timezone support
+pytz==2024.1
+
+# Development
+ipython==8.20.0
