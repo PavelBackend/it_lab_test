@@ -25,7 +25,7 @@
 1. Клонировать репозиторий и перейти в директорию:
 
 ```bash
-git clone https://github.com/PavelBackend/ai_lab_test.git && cd it_lab_test
+git clone https://github.com/PavelBackend/it_lab_test.git && cd it_lab_test
 ```
 
 2. Скопировать конфиги и запустить все сервисы:
